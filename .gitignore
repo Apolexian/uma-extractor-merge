@@ -1,0 +1,3 @@
+# Account dumps - never commit
+*.json
+__pycache__/
